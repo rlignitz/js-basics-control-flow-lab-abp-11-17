@@ -23,4 +23,8 @@ function switchOnCharmFromTip(tip) {
     case 'thanks for everything':
       return "Bye.";
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f23cc7952c6816ad36aa493fd6f5d857655f728d
